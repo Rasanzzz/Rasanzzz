@@ -26,26 +26,14 @@
 
 - 🚀 Exploring CI/CD pipelines with beginner-friendly tools like Jenkins.
 
-[Automation Play]
-
-Creating simple automation scripts to make daily tasks a bit more fun and efficient.
-
-![Automation Scripting](insert_automation_image_url_here)
-
-### [My First Docker]
-
-Sharing my experience with containerizing a basic application using Docker.
-
-![Docker](insert_docker_image_url_here)
-
 ## 🤝 Let's Learn Together
 
 I'm on this exciting learning journey and would love to connect with fellow learners, mentors, or anyone passionate about DevOps. Feel free to connect on GitHub and let's explore together!
 
 ## 📫 Connect with Me
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Email: your.email@example.com
+- GitHub: [Your GitHub Profile](https://github.com/rasanzzz)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rasanpreet-singh/)
+- Email: rasansaini@gmail.com
 
 Let's grow and learn in the DevOps world together! 🌟
