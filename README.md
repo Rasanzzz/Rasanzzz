@@ -32,8 +32,8 @@ I'm on this exciting learning journey and would love to connect with fellow lear
 
 ## 📫 Connect with Me
 
-- GitHub: [Your GitHub Profile](https://github.com/rasanzzz)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rasanpreet-singh/)
+- GitHub: [Click here](https://github.com/rasanzzz)
+- LinkedIn: [Click here](https://www.linkedin.com/in/rasanpreet-singh/)
 - Email: rasansaini@gmail.com
 
 Let's grow and learn in the DevOps world together! 🌟
