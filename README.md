@@ -1,8 +1,8 @@
-👋 Hello, I'm Rasan - Aspiring DevOps Explorer
+👋 Hello, I'm Rasan - Aspiring Explorer
 
 ![DevOps Explorer](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif)
 
- I'm budding DevOps enthusiast eager to learn and contribute to the world of automation and infrastructure. I'm passionate about making development and operations work seamlessly together to deliver awesome software.
+ I'm budding enthusiast eager to learn and contribute to the world of automation and infrastructure. I'm passionate about making development and operations work seamlessly together to deliver awesome software.
 
 ## 🚀 Skills I'm Excited to Learn
 
