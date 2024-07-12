@@ -32,6 +32,7 @@ I'm on this exciting learning journey and would love to connect with fellow lear
 
 ## 📫 Connect with Me
 
+- Devops pipeline game: [Click here]([https://github.com/rasanzzz](https://rasanzzz.github.io/devops-game/)
 - GitHub: [Click here](https://github.com/rasanzzz)
 - LinkedIn: [Click here](https://www.linkedin.com/in/rasanpreet-singh/)
 - Email: rasansaini@gmail.com
