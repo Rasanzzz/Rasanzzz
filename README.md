@@ -1,40 +1,35 @@
-👋 Hello, I'm Rasan - Aspiring Explorer
+# 👋 Hi, I'm Rasan
 
-![DevOps Explorer](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif)
+Test Engineer | QA Automation Specialist
 
- I'm budding enthusiast eager to learn and contribute to the world of automation and infrastructure. I'm passionate about making development and operations work seamlessly together to deliver awesome software.
+- 🔎 Passionate about building reliable, scalable test automation
+- 🛠️ Skilled in Playwright, Selenium, Cypress, and API testing
+- ⚙️ Experienced with CI/CD pipelines (GitHub Actions, Jenkins)
+- 📚 Always learning and improving test strategies
+- 🌐 Love clean code, clear documentation, and smart testing
 
-## 🚀 Skills I'm Excited to Learn
+## 🚀 Tech Skills
 
-- Version Control: Getting comfortable with Git basics, branching, and collaborating on projects.
+**Languages:**  
+- JavaScript
+- TypeScript
+- Python
+- C#
 
-- Automation Curiosity: Exploring automation with simple scripts in Bash or Python to make repetitive tasks easier.
+**Tools & Frameworks:**  
+- Playwright
+- Selenium
+- Cypress
+- Postman
+- Jest
+- Mocha
+- Cucumber
 
-- Container Wonderland: Dipping my toes into Docker, understanding containers, and experimenting with containerizing applications.
+**CI/CD Tools:**  
+- GitHub Actions
+- Jenkins
+- Azure DevOps
 
-- Cloud Adventures: Starting the journey with cloud platforms like AWS, Azure, or GCP and understanding the basics of cloud services.
-
-- CI/CD Curious: Exploring the concept of continuous integration and continuous delivery with beginner-friendly tools like Jenkins.
-
-## 📚 Learning Path
-  
-- 🐍 Exploring Python scripting for automation, starting with basic tasks.
-
-- 🐳 Understanding Docker concepts and experimenting with containerization.
-
-- ☁️ Venturing into the cloud with introductory courses on AWS.
-
-- 🚀 Exploring CI/CD pipelines with beginner-friendly tools like Jenkins.
-
-## 🤝 Let's Learn Together
-
-I'm on this exciting learning journey and would love to connect with fellow learners, mentors, or anyone passionate about DevOps. Feel free to connect on GitHub and let's explore together!
-
-## 📫 Connect with Me
-
-- Devops pipeline game: [Click here]([https://github.com/rasanzzz](https://rasanzzz.github.io/devops-game/])
-- GitHub: [Click here](https://github.com/rasanzzz)
 - LinkedIn: [Click here](https://www.linkedin.com/in/rasanpreet-singh/)
 - Email: rasansaini@gmail.com
 
-Let's grow and learn in the DevOps world together! 🌟
